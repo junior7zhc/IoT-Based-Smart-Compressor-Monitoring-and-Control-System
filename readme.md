@@ -1,4 +1,4 @@
-# 📡IoT-Based-Smart-Compressor-Monitoring-and-Control-System📡
+# 📡🌐IoT-Based-Smart-Compressor-Monitoring-and-Control-System🌐📡
 <img width="1258" height="775" alt="image" src="https://github.com/user-attachments/assets/337509f2-7b68-4510-9745-17282bcbb6d3" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
