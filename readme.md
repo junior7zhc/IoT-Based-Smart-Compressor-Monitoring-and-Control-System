@@ -1,7 +1,8 @@
-# IoT-Based-Smart-Compressor-Monitoring-and-Control-System
+# 📡IoT-Based-Smart-Compressor-Monitoring-and-Control-System📡
+<img width="1258" height="775" alt="image" src="https://github.com/user-attachments/assets/337509f2-7b68-4510-9745-17282bcbb6d3" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
-<br><br>
+<br>
 
 This project is an advanced IoT-powered system that enables real-time monitoring and intelligent control of air compressors.
 It enhances operational reliability, minimizes unexpected downtime, and ensures optimal performance.
@@ -53,6 +54,9 @@ The system provides secure remote access to critical machine parameters anytime,
 
 
 ## 🧩 System Architecture
+<img width="1111" height="923" alt="image" src="https://github.com/user-attachments/assets/284a6ac3-8f91-4ffd-9415-d4e194647730" />
+
+
 
 
 - The system consists of an IoT-enabled microcontroller connected to sensors and a relay module, which collects compressor data and sends it to a cloud platform. Users can remotely monitor machine health and control the compressor through a dashboard or mobile app.
@@ -78,8 +82,11 @@ The system provides secure remote access to critical machine parameters anytime,
 
 
 ## 📦 Block Diagram Explanation
+<img width="1161" height="852" alt="image" src="https://github.com/user-attachments/assets/3de7f20a-a23c-4d40-a2bd-ea395de43e59" />
 
 
+
+## 📦 Block Diagram Explanation
 ### 1. Sensors Unit
 
 - Pressure Sensor → Monitors air pressure in the compressor.
@@ -123,6 +130,8 @@ The system provides secure remote access to critical machine parameters anytime,
 - Allows remote ON/OFF control of the compressor.
 
 ### 6. Control Unit
+<img width="1064" height="660" alt="image" src="https://github.com/user-attachments/assets/46cef573-b17f-46b8-a762-692b133ffdc9" />
+
 
 - A relay module controls the power supply to the compressor.
 
@@ -147,6 +156,21 @@ The system provides secure remote access to critical machine parameters anytime,
 - Relay Module
 
 - Wi-Fi Module (built-in for ESP32)
+  <p align="center">
+
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/f2500718-b880-482d-b52a-0c66acdabb79" width="32%" />
+  <img src="https://github.com/user-attachments/assets/947e24b1-4fed-4c1c-9ed6-1cbf167f80df" width="32%" />
+  <img src="https://github.com/user-attachments/assets/6f86176a-49b0-467e-97bf-530c7bf065ae" width="32%" />
+</div>
+
+</p>
+
+ 
+  
+  
+
+
 
 ## 🖥️ Software & Tools
 
@@ -157,6 +181,25 @@ The system provides secure remote access to critical machine parameters anytime,
 - IoT Dashboard
 
 - GitHub for version control
+
+  
+ 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7f051c4-5d05-4195-9f49-16985fd7302c" width="32%" />
+  <img src="https://github.com/user-attachments/assets/a4228076-df6c-47c7-a304-ccb11215d74c" width="32%" />
+  <img src="https://github.com/user-attachments/assets/39af0e90-2dfc-4b92-b67c-836f68e8bc82" width="32%" />
+  <br/>
+  <img src="https://github.com/user-attachments/assets/d6a1909f-f731-4629-a5c8-06122ecc5169" width="32%" />
+  <img src="https://github.com/user-attachments/assets/a411464b-3e92-4400-810c-376646a9be35" width="32%" />
+</p>
+
+
+
+
+
+
+
+  
 
 
 ## 📚 Project Structure
